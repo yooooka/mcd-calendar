@@ -1,1 +1,1 @@
-# mcd-calendar
+# McD calendar redirect
